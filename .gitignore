@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+.vscode/
+*.pem
+*.key
+*.pfx
+*.p12
+.env
+secrets/
+passwords/
